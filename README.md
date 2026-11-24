@@ -148,3 +148,5 @@ The repository demonstrates the project methodology, source code, and dashboard.
 ## 🎓 Internship Project
 
 Developed as part of a Data Science and Machine Learning internship at Unified Mentor.
+
+⭐ If you find this project useful, consider starring the repository.
